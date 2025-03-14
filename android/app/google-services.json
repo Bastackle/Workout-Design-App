@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522807924607",
+    "project_id": "thatthep-1e8f1",
+    "storage_bucket": "thatthep-1e8f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522807924607:android:9c2bfca72610f48c6eec4a",
+        "android_client_info": {
+          "package_name": "com.example.exercise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMPXb5Z3wF9mxDS_EZwL-nsced3g3sP0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
