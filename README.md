@@ -12,3 +12,5 @@ This project involves developing a Flutter application with Firebase as the data
 - The application should display a list of recorded workouts, showing **only the activity name and calories burned**.
 - Workout records can be edited, but **only the activity name and duration (in minutes)** can be modified.
 - Workout records can be deleted from the database.
+
+**[Go to Video](workout.mp4)**
