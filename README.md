@@ -1,16 +1,14 @@
-# exercise
+# Mobile Application Design and Development (Assignment#3)
 
-A new Flutter project.
+![banner](https://github.com/user-attachments/assets/74ba40d7-3162-4184-918e-5ce5864b9754)
 
-## Getting Started
+## Task
+This project involves developing a Flutter application with Firebase as the database. The application manages workout records, allowing users to add, edit, delete, and display exercise data.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Project Requirements:
+- The Firebase project name should be set using only the student's English name.
+- The database must contain a single collection named **Workout**.
+- Users can add workout records to Firebase Firestore, including the **activity name, duration (in minutes), and calories burned**.
+- The application should display a list of recorded workouts, showing **only the activity name and calories burned**.
+- Workout records can be edited, but **only the activity name and duration (in minutes)** can be modified.
+- Workout records can be deleted from the database.
